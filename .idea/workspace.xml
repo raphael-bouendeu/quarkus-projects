@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="652ea597-f80d-4893-8e68-fb5202b2a70c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/Program Files/apache-maven-3.9.3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+  </component>
+  <component name="ProjectId" id="2TI0zfWDdx667j0X2WCJ4FLKcHG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="Found 2 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="RunManager" selected="Quarkus.rest-book">
+    <configuration name="BookResourceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="book-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itbacfrica.microservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itbacfrica.microservice" />
+      <option name="MAIN_CLASS_NAME" value="com.itbacfrica.microservice.BookResourceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookResourceTest.shouldCountAllBooks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="book-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itbacfrica.microservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itbacfrica.microservice" />
+      <option name="MAIN_CLASS_NAME" value="com.itbacfrica.microservice.BookResourceTest" />
+      <option name="METHOD_NAME" value="shouldCountAllBooks" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookResourceTest.shouldGetAllBooks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="book-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itbacfrica.microservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itbacfrica.microservice" />
+      <option name="MAIN_CLASS_NAME" value="com.itbacfrica.microservice.BookResourceTest" />
+      <option name="METHOD_NAME" value="shouldGetAllBooks" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="book-unit-test" type="JUnit" factoryName="JUnit">
+      <module name="book-service" />
+      <option name="PACKAGE_NAME" value="com.itbacfrica.microservice" />
+      <option name="MAIN_CLASS_NAME" value="com.itbacfrica.microservice.BookResourceTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="QuarkusRunConfiguration" factoryName="QuarkusRunConfiguration" editBeforeRun="true">
+      <module name="book-service" />
+      <option name="profile" />
+      <method v="2" />
+    </configuration>
+    <configuration name="course-resource" type="QuarkusRunConfiguration" factoryName="QuarkusRunConfiguration" activateToolWindowBeforeRun="false">
+      <module name="course-resource" />
+      <option name="profile" value="dev" />
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean quarkus:build  quarkus:dev" />
+      </method>
+    </configuration>
+    <configuration name="rest-book -staging" type="QuarkusRunConfiguration" factoryName="QuarkusRunConfiguration" activateToolWindowBeforeRun="false">
+      <module name="book-service" />
+      <option name="profile" value="staging" />
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="quarkus:dev" />
+      </method>
+    </configuration>
+    <configuration name="rest-book" type="QuarkusRunConfiguration" factoryName="QuarkusRunConfiguration" activateToolWindowBeforeRun="false">
+      <module name="book-service" />
+      <option name="profile" />
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean install quarkus:dev" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.book-unit-test" />
+      <item itemvalue="JUnit.BookResourceTest" />
+      <item itemvalue="JUnit.BookResourceTest.shouldCountAllBooks" />
+      <item itemvalue="JUnit.BookResourceTest.shouldGetAllBooks" />
+      <item itemvalue="Quarkus.course-resource" />
+      <item itemvalue="Quarkus.rest-book" />
+      <item itemvalue="Quarkus.rest-book -staging" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BookResourceTest" />
+        <item itemvalue="JUnit.BookResourceTest.shouldCountAllBooks" />
+        <item itemvalue="JUnit.BookResourceTest.shouldGetAllBooks" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="652ea597-f80d-4893-8e68-fb5202b2a70c" name="Default Changelist" comment="" />
+      <created>1690715550566</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690715550566</updated>
+      <workItem from="1690715557089" duration="6633000" />
+      <workItem from="1690746089317" duration="3969000" />
+      <workItem from="1690751330342" duration="279000" />
+      <workItem from="1690751637506" duration="178000" />
+      <workItem from="1690751841034" duration="117000" />
+      <workItem from="1690751982050" duration="21173000" />
+      <workItem from="1690849250131" duration="5697000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="587" y="184" key="#book-service" timestamp="1690736960166">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="587" y="184" key="#book-service/0.0.1920.1040@0.0.1920.1040" timestamp="1690736960166" />
+    <state x="149" y="136" width="1222" height="786" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1690826617103">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="149" y="136" width="1222" height="786" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1690826617103" />
+    <state x="362" y="239" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1690737548802">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="362" y="239" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1690737548802" />
+    <state x="587" y="184" key="#rest-book" timestamp="1690796300576">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="587" y="184" key="#rest-book/0.0.1920.1040@0.0.1920.1040" timestamp="1690796300576" />
+    <state x="368" y="203" key="EnvironmentVariablesDialog" timestamp="1690737489513">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="368" y="203" key="EnvironmentVariablesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1690737489513" />
+    <state x="425" y="196" key="FileChooserDialogImpl" timestamp="1690796276892">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="425" y="196" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1690796276892" />
+    <state width="1865" height="499" key="GridCell.Tab.0.bottom" timestamp="1690828576733">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="499" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1690828576733" />
+    <state width="1865" height="499" key="GridCell.Tab.0.center" timestamp="1690828576733">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="499" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1690828576733" />
+    <state width="1865" height="499" key="GridCell.Tab.0.left" timestamp="1690828576733">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="499" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1690828576733" />
+    <state width="1865" height="499" key="GridCell.Tab.0.right" timestamp="1690828576733">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="499" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1690828576733" />
+    <state width="1865" height="334" key="GridCell.Tab.1.bottom" timestamp="1690801298068">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="334" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1690801298068" />
+    <state width="1865" height="334" key="GridCell.Tab.1.center" timestamp="1690801298067">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="334" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1690801298067" />
+    <state width="1865" height="334" key="GridCell.Tab.1.left" timestamp="1690801298067">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="334" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1690801298067" />
+    <state width="1865" height="334" key="GridCell.Tab.1.right" timestamp="1690801298068">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="334" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1690801298068" />
+    <state x="312" y="0" key="SettingsEditor" timestamp="1690796287643">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="312" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1690796287643" />
+    <state x="192" y="87" key="new project wizard" timestamp="1690747283289">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="192" y="87" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1690747283289" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/book-service/src/main/java/com/itbacfrica/microservice/BookResource.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
